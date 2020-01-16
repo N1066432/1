@@ -8,7 +8,8 @@
  >123
 
 
- djhjhfsk *jdkjs*       斜體
- hnjfsdhk **fgfgfcf**   粗體
- hfshfdjk ***fkkfkh***  斜體+粗體
- jfdjhgfd ~~gkflk~~     刪除線
+ 1 *jdkjs*       斜體
+
+ 2 **fgfgfcf**   粗體  
+ 3 ***fkkfkh***  斜體+粗體  
+ 4 ~~gkflk~~     刪除線  
