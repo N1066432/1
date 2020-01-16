@@ -13,3 +13,10 @@
  2 **fgfgfcf**   粗體  
  3 ***fkkfkh***  斜體+粗體  
  4 ~~gkflk~~     刪除線  
+--- 
+> 分隔線
+
+<http://google.com>
+[google](http://google.com)
+---
+hello `fjjhdkfj`
