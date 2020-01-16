@@ -11,4 +11,4 @@
  djhjhfsk *jdkjs*       斜體
  hnjfsdhk **fgfgfcf**   粗體
  hfshfdjk ***fkkfkh***  斜體+粗體
- jfdjhgfd __gkflj__     刪除線
+ jfdjhgfd ~~gkflk~~     刪除線
